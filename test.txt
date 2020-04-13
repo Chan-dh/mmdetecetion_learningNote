@@ -3,3 +3,5 @@ this is the first git file
 just do it
 
 git is a distribute version control system.
+
+go go go!
